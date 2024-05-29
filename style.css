@@ -1,0 +1,99 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  width: 1983px;
+  height: 800px;
+}
+
+body {
+  background-color: #000000;
+}
+
+p {
+  color: white;
+  width: 1000px;
+  margin: auto;
+
+  font-family: "Roboto Slab", serif;
+  font-size: 20px;
+}
+
+a {
+  color: white;
+  font-family: 'Chinese Rocks Rg', sans-serif;
+  width: 100px;
+  text-decoration: none;
+}
+
+a {
+  color: #570000;
+  width: 100px;
+  text-decoration: underline dotted;
+}
+
+.h3 {
+  color: #ffffff;
+  font-family: 'Chinese Rocks Rg', sans-serif;
+  margin: auto;
+  width: 170px;
+  font-size: 60px;
+  background-color: #750000;
+  border: 4mm ridge rgb(56, 0, 0, .6);
+  ;
+}
+
+.video {
+  margin: auto;
+  width: 560px;
+  height: 315px;
+  border: 4mm ridge #330000;
+}
+
+.gameplay {
+  margin: auto;
+  width: 560px;
+  height: 315px;
+  border: 4mm ridge #330000;
+}
+
+.text {
+  color: #ffffff;
+  font-family: 'Chinese Rocks Rg', sans-serif;
+  margin: auto;
+  width: 200px;
+  font-size: 60px;
+  background-color: #750000;
+  border: 4mm ridge rgb(56, 0, 0, .6);
+  ;
+}
+
+.game {
+  margin: auto;
+  width: 560px;
+  height: 315px;
+  border: 4mm ridge #330000;
+}
+
+.honor {
+  color: #ffffff;
+  font-family: 'Chinese Rocks Rg', sans-serif;
+  margin: auto;
+  width: 150px;
+  font-size: 60px;
+  background-color: #750000;
+  border: 4mm ridge rgb(56, 0, 0, .6);
+  ;
+}
+
+.imghonor {
+  width: 920px;
+  height: 300px;
+
+}
+
+.photo {
+ text-align: center;
+}
